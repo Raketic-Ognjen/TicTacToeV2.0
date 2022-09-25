@@ -239,6 +239,6 @@ class TicTacToe:  # 2nd step
         self.show_board()
 
 
-# 20th step starting the game
+# 20th step starting the game:
 tic_tac_toe = TicTacToe()
 tic_tac_toe.start()
